@@ -3,7 +3,8 @@
 [![FUP6l6.md.png](https://s1.ax1x.com/2018/12/14/FUP6l6.md.png)](https://imgchr.com/i/FUP6l6)
 
 # 使用方法
-```import Date from "XX/date.vue";
+```javascript
+import Date from "XX/date.vue";
 
 export default {
   name: "Cygl",
